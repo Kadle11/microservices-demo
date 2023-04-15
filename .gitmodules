@@ -1,0 +1,6 @@
+[submodule "wrk"]
+	path = wrk
+	url = https://github.com/wg/wrk
+[submodule "wrk2"]
+	path = wrk2
+	url = https://github.com/giltene/wrk2
